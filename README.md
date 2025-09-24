@@ -1,10 +1,6 @@
 <html>
 
 
-<head>
-     <title> MY FAVORITE BOOKS </title>
-
-</head>
 
 <h1>MY FAVORITE BOOKS : Hunger Games  </h1>
 <h2>THE HUNGER GAMES :Book 1<h2>
