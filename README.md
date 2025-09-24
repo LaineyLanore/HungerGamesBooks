@@ -63,7 +63,7 @@ thrown into the arena again.Just when you think all is lost Haymitch has a plan.
 <h3>Wiress</h3>
 </div>
 <div id = "books" ></div>
-<title>Pictures</title>
+
 <img  src= “https://cdn.pixabay.com/photo/2015/06/17/03/22/the-hunger-games-811955_1280.jpg width=450 height=350/>
 <a href = “ pixabay.com” ><img src = “ “https://cdn.pixabay.com/photo/2015/06/17/03/22/the-hunger-games-811955_1280.jpg ”/></a>
 
