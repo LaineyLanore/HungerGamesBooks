@@ -1,5 +1,10 @@
-body {
+.month{
 
-width: 90%
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+border: 40px solid black;
+
+
 
 }
